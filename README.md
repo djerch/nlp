@@ -1,1 +1,1 @@
-some scraping and plotting
+some scraping and analyzing
